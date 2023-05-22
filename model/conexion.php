@@ -1,8 +1,8 @@
 <?php 
-$contrasena = "AVNS_koSn5tw88NQbySRImkJ";
-$usuario = "doadmin";
+$contrasena = "UKto3CYRwHorRdiI4dwm";
+$usuario = "root";
 $nombre_bd = "railway";
-$host = "db-mysql-nyc1-60133-do-user-14116195-0.b.db.ondigitalocean.com:25060";
+$host = "containers-us-west-13.railway.app:6034";
 
 try {
 	$bd = new PDO (
