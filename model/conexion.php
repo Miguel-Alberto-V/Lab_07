@@ -2,7 +2,7 @@
 $contrasena = "UKto3CYRwHorRdiI4dwm";
 $usuario = "root";
 $nombre_bd = "railway";
-$host = "containers-us-west-13.railway.app";
+$host = "containers-us-west-13.railway.app:6034";
 
 try {
 	$bd = new PDO (
